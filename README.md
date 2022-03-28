@@ -1,5 +1,3 @@
-# Parastagram
-
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
@@ -26,3 +24,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/gvsYsTK.gif)
+
+![](https://i.imgur.com/gMvERH9.gif)
